@@ -59,7 +59,6 @@
 3,Broker user,,similar functionality ,similar functionality for PPoPZIP+4 and Legal Entity ZIP validations,
 6,FABS user,link,SAMPLE FILE ,"link the SAMPLE FILE on the ""What you want  to submit"" dialog to point to the correct file",have an accurate reference for my agency submissions.
 1,agency user,update,updated FPDS data ,updated FPDS data daily,
-10,user,access,raw agency 's published files ,access the raw agency's published files from FABS via USAspending,
 5,developer,determine,agencies ,determine how agencies will generate and validate D Files from FABS and FPDS data,
 10,user,generate,D Files ,generate D Files from FABS and FPDS data,
 10,user,validate,generated D Files ,validate the generated D Files from FABS and FPDS data,
